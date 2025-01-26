@@ -7,7 +7,7 @@ A PHP package to calculate Japanese national holidays.
 Install the package via Composer:
 
 ```bash
-composer require tiennk1995dev/japanese-holidays
+composer require tiennk1995dev/japanese-holidays:^1.0.0
 ```
 
 ## Usage
